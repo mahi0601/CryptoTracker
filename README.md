@@ -3,9 +3,7 @@
 
 <p align="center">
 Just type any crytocurrency to get its market cap and OCHL value. The app is live at
-```
-  https://crypotrack.herokuapp.com/
-```
+### `https://crypotrack.herokuapp.com/`
 </p>
 
 ## Features
