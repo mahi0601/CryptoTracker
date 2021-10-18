@@ -1,9 +1,13 @@
 
 <h1 align="center">CryptoTrack</h1>
+
 <p align="center">
 Just type any crytocurrency to get its market cap and OCHL value. 
 </p>
+
 ### `https://crypotrack.herokuapp.com/`
+
+
 ## Features
 - Built in search
 - Searches the top 100 coins 🤘
